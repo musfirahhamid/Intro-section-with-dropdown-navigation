@@ -212,6 +212,7 @@
     width: 378px;
     font-size: 1rem;
     text-align: justify;
+    margin-top: 2rem;
 }
 .image{
    flex-basis: 40%;
@@ -269,6 +270,7 @@
         color: gray;
         text-align: center;
         padding-right:  100px;
+        margin-top: 1rem;
     }
     span{
         display: none;
